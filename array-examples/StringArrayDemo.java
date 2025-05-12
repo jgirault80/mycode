@@ -10,7 +10,7 @@ public class StringArrayDemo {
         }
 
         // Step 3: Access a specific element
-        System.out.println("\nMy favorite fruit is: " + fruits[1]);
+       System.out.println("\nMy favorite fruit is: " + fruits[2]);
     }
 }
 
